@@ -1,12 +1,6 @@
 # SAMSUNG DATA CODEBOOK.
 
- [1] Activity: Performed activity (factor)
-	* 1. Walking
-	* 2. Walking upstairs
-	* 3. Walking downstairs
-	* 4. Sitting
-	* 5. Standing
-	* 6. Laying
+ [1] Activity: Performed activity (factor, 1. Walking, 2. Walking upstairs, 3. Walking downstairs, 4. Sitting, 5. Standing, 6. Laying)
  [2] Subject: Subject ID (integer, range=1-30)                                    
  [3] Body acceleration time_mean_X: Mean of body acceleration time (X axis), (numeric, range=-1,1)              
  [4] Body acceleration time_mean_Y: Mean of body acceleration time (Y axis), (numeric, range=-1,1)                            
